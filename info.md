@@ -2,6 +2,7 @@
 
 ```
 molohub:
+  dismissable: true
 
 ```
 
