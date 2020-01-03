@@ -1,0 +1,7 @@
+{
+"domain": "molohub",
+"name": "molohub",
+"documentation": "https://github.com/haoctopus/molohub",
+"dependencies": [],
+"codeowners": ["@haoctopus"],
+}
